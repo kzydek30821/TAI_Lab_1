@@ -1,0 +1,12 @@
+body{
+    background-color: yellow;
+}
+li{
+    display: inline;
+    padding-left: 5%;
+}
+form{
+    margin: 5% 60% 5% 5%;
+    padding: 5%;
+    border: solid black;
+}
